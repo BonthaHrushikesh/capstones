@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2700" height="1600" viewBox="0 0 2700 1600" role="img" aria-label="API, Assistant and Dashboard Workflow">
+<title>API, Assistant and Dashboard Workflow</title>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#667085"/></marker>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.canvas{fill:#f5f6f8}.ink{fill:#172033}.muted{fill:#526071}.label{font-size:18px;font-weight:700;letter-spacing:1.3px}.title{font-size:42px;font-weight:750}.subtitle{font-size:21px}.card-title{font-size:23px;font-weight:700}.body{font-size:18px}.small{font-size:16px}.tiny{font-size:14px}.center{text-anchor:middle}.panel{fill:#fff;stroke:#d8dde5;stroke-width:2}.arrow{fill:none;stroke:#667085;stroke-width:3;marker-end:url(#arrow)}.flowline{fill:none;stroke:#8791a0;stroke-width:2.5}</style></defs>
+<rect class="canvas" width="2700" height="1600"/>
+<text x="55" y="58" class="label" fill="#765a12">AI-POWERED SMART GRID ENERGY INTELLIGENCE ASSISTANT</text>
+<text x="55" y="112" class="title ink">API, Assistant and Dashboard Workflow</text>
+<text x="55" y="151" class="subtitle muted">A request enters FastAPI, the Copilot selects supported local evidence, and React displays structured results.</text>
+<text x="2645" y="58" text-anchor="end" class="small muted">3 / 3  REQUEST AND USER FLOW</text>
+<rect x="38" y="200" width="820" height="540" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="38" y="200" width="820" height="52" rx="16" fill="#edf7fa" stroke="#edf7fa" stroke-width="0"/>
+<rect x="38" y="240" width="820" height="12" rx="0" fill="#edf7fa" stroke="#edf7fa" stroke-width="0"/>
+<rect x="38" y="200" width="8" height="540" rx="4" fill="#23606b" stroke="#23606b" stroke-width="0"/>
+<text x="66" y="235" class="label" text-anchor="start" fill="#23606b">API / APPLICATION LAYER</text>
+<rect x="68" y="275" width="355" height="205" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="89" y="309" class="card-title" text-anchor="start" fill="#23606b">Request path</text>
+<text x="89" y="345" class="body muted" text-anchor="start">GET focused analytics endpoints</text>
+<text x="89" y="371" class="body muted" text-anchor="start">POST /api/ask(question, dates,</text>
+<text x="89" y="397" class="body muted" text-anchor="start">context)</text>
+<text x="89" y="423" class="body muted" text-anchor="start">Validate request length and date</text>
+<text x="89" y="449" class="body muted" text-anchor="start">parameters</text>
+<text x="89" y="475" class="body muted" text-anchor="start">Apply topic, date and context</text>
+<text x="89" y="501" class="body muted" text-anchor="start">guardrails</text>
+<text x="89" y="527" class="body muted" text-anchor="start">Map data errors to HTTP</text>
+<text x="89" y="553" class="body muted" text-anchor="start">responses</text>
+<rect x="448" y="275" width="375" height="205" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="469" y="309" class="card-title" text-anchor="start" fill="#23606b">Response shape</text>
+<text x="469" y="345" class="body muted" text-anchor="start">Endpoint-specific JSON metrics</text>
+<text x="469" y="371" class="body muted" text-anchor="start">Copilot: answer + evidence + trace</text>
+<text x="469" y="397" class="body muted" text-anchor="start">NLP interpretation + search</text>
+<text x="469" y="423" class="body muted" text-anchor="start">results</text>
+<text x="469" y="449" class="body muted" text-anchor="start">Forecast model and caveats</text>
+<text x="469" y="475" class="body muted" text-anchor="start">No results database; results</text>
+<text x="469" y="501" class="body muted" text-anchor="start">returned to caller</text>
+<rect x="68" y="510" width="755" height="185" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="89" y="544" class="card-title" text-anchor="start" fill="#23606b">Important routes</text>
+<text x="89" y="580" class="body muted" text-anchor="start">GET /api/summary, /trends, /anomalies, /forecast, /evaluation</text>
+<text x="89" y="606" class="body muted" text-anchor="start">GET /api/data-quality, /search, /agents/insight, /agents/decision</text>
+<text x="89" y="632" class="body muted" text-anchor="start">POST /api/ask; FastAPI also serves the built React app</text>
+<rect x="885" y="200" width="835" height="540" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="885" y="200" width="835" height="52" rx="16" fill="#f4f0ff" stroke="#f4f0ff" stroke-width="0"/>
+<rect x="885" y="240" width="835" height="12" rx="0" fill="#f4f0ff" stroke="#f4f0ff" stroke-width="0"/>
+<rect x="885" y="200" width="8" height="540" rx="4" fill="#5b438f" stroke="#5b438f" stroke-width="0"/>
+<text x="913" y="235" class="label" text-anchor="start" fill="#5b438f">AI ENERGY INTELLIGENCE ASSISTANT</text>
+<rect x="915" y="275" width="775" height="245" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="936" y="309" class="card-title" text-anchor="start" fill="#5b438f">Question understanding</text>
+<text x="936" y="345" class="body muted" text-anchor="start">Rule-based token normalization, synonyms, intents and parameter extraction</text>
+<text x="936" y="371" class="body muted" text-anchor="start">Supported focus: date scope, sub-meter, measurement, weekday, forecast</text>
+<text x="936" y="397" class="body muted" text-anchor="start">horizon</text>
+<text x="936" y="423" class="body muted" text-anchor="start">Guardrails ask for clarification when the dataset cannot answer the request</text>
+<text x="936" y="449" class="body muted" text-anchor="start">Example: &quot;What were the peak demand hours?&quot;</text>
+<text x="936" y="475" class="body muted" text-anchor="start">Example: &quot;Did anything unusual happen yesterday?&quot;</text>
+<text x="936" y="501" class="body muted" text-anchor="start">Example: &quot;What is the expected demand for the next 24 hours?&quot;</text>
+<text x="936" y="527" class="body muted" text-anchor="start">Example: &quot;How much energy was consumed this month?&quot;</text>
+<rect x="915" y="545" width="370" height="155" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="936" y="579" class="card-title" text-anchor="start" fill="#81600d">Evidence-first answer</text>
+<text x="936" y="615" class="body muted" text-anchor="start">Call only the requested</text>
+<text x="936" y="641" class="body muted" text-anchor="start">calculations; rank keyword</text>
+<text x="936" y="667" class="body muted" text-anchor="start">evidence; compose facts + limits +</text>
+<text x="936" y="693" class="body muted" text-anchor="start">trace</text>
+<rect x="1300" y="545" width="390" height="155" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="1321" y="579" class="card-title" text-anchor="start" fill="#5b438f">Optional language model</text>
+<text x="1321" y="615" class="body muted" text-anchor="start">No key = local answer; configured</text>
+<text x="1321" y="641" class="body muted" text-anchor="start">model may rephrase; unsupported</text>
+<text x="1321" y="667" class="body muted" text-anchor="start">numbers are rejected</text>
+<rect x="1748" y="200" width="914" height="540" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="1748" y="200" width="914" height="52" rx="16" fill="#eef7f2" stroke="#eef7f2" stroke-width="0"/>
+<rect x="1748" y="240" width="914" height="12" rx="0" fill="#eef7f2" stroke="#eef7f2" stroke-width="0"/>
+<rect x="1748" y="200" width="8" height="540" rx="4" fill="#296b4f" stroke="#296b4f" stroke-width="0"/>
+<text x="1776" y="235" class="label" text-anchor="start" fill="#296b4f">FRONTEND / PRESENTATION LAYER</text>
+<rect x="1778" y="275" width="420" height="205" rx="13" fill="#eef7f2" stroke="#68a388" stroke-width="2"/>
+<text x="1799" y="309" class="card-title" text-anchor="start" fill="#296b4f">Dashboard sections</text>
+<text x="1799" y="345" class="body muted" text-anchor="start">Overview: average, max, total energy,</text>
+<text x="1799" y="371" class="body muted" text-anchor="start">P95</text>
+<text x="1799" y="397" class="body muted" text-anchor="start">Analytics: demand, daily/monthly, peak</text>
+<text x="1799" y="423" class="body muted" text-anchor="start">hours</text>
+<text x="1799" y="449" class="body muted" text-anchor="start">Anomalies: time, observed, baseline,</text>
+<text x="1799" y="475" class="body muted" text-anchor="start">score</text>
+<text x="1799" y="501" class="body muted" text-anchor="start">Forecast: history, values, model,</text>
+<text x="1799" y="527" class="body muted" text-anchor="start">caveat</text>
+<rect x="2218" y="275" width="414" height="205" rx="13" fill="#eef7f2" stroke="#68a388" stroke-width="2"/>
+<text x="2239" y="309" class="card-title" text-anchor="start" fill="#296b4f">More dashboard sections</text>
+<text x="2239" y="345" class="body muted" text-anchor="start">Data Quality: records, missing,</text>
+<text x="2239" y="371" class="body muted" text-anchor="start">duplicates, rate</text>
+<text x="2239" y="397" class="body muted" text-anchor="start">AI Chat: question, answer, evidence,</text>
+<text x="2239" y="423" class="body muted" text-anchor="start">rating</text>
+<text x="2239" y="449" class="body muted" text-anchor="start">Insights, reports and CSV export</text>
+<text x="2239" y="475" class="body muted" text-anchor="start">Date scope passed to backend endpoints</text>
+<rect x="1778" y="510" width="854" height="185" rx="13" fill="#eef7f2" stroke="#68a388" stroke-width="2"/>
+<text x="1799" y="544" class="card-title" text-anchor="start" fill="#296b4f">How results are shown</text>
+<text x="1799" y="580" class="body muted" text-anchor="start">React pages call the JSON API through services/api.ts</text>
+<text x="1799" y="606" class="body muted" text-anchor="start">Charts, tables, metrics and evidence panels render returned values</text>
+<text x="1799" y="632" class="body muted" text-anchor="start">Chat evaluation and feedback are saved in browser localStorage</text>
+<rect x="38" y="780" width="2624" height="410" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="38" y="780" width="2624" height="52" rx="16" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="820" width="2624" height="12" rx="0" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="780" width="8" height="410" rx="4" fill="#81600d" stroke="#81600d" stroke-width="0"/>
+<text x="66" y="815" class="label" text-anchor="start" fill="#81600d">EXAMPLE END-TO-END QUERY FLOW</text>
+<text x="70" y="840" class="card-title ink" text-anchor="start">User asks: &quot;What is the expected electricity demand for tomorrow?&quot;</text>
+<rect x="65" y="890" width="185" height="210" rx="13" fill="#edf4ff" stroke="#7394c2" stroke-width="2"/>
+<text x="157.5" y="924" class="card-title" text-anchor="middle" fill="#28517f">Question</text>
+<text x="157.5" y="960" class="body muted" text-anchor="middle">Tomorrow</text>
+<text x="157.5" y="979" class="body muted" text-anchor="middle">demand</text>
+<path d="M251 995.0 L261 995.0" class="arrow"/>
+<rect x="264" y="890" width="185" height="210" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="356.5" y="924" class="card-title" text-anchor="middle" fill="#5b438f">Understand</text>
+<text x="356.5" y="960" class="body muted" text-anchor="middle">Natural</text>
+<text x="356.5" y="979" class="body muted" text-anchor="middle">language</text>
+<path d="M450 995.0 L460 995.0" class="arrow"/>
+<rect x="463" y="890" width="185" height="210" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="555.5" y="924" class="card-title" text-anchor="middle" fill="#5b438f">Intent</text>
+<text x="555.5" y="960" class="body muted" text-anchor="middle">Forecast</text>
+<path d="M649 995.0 L659 995.0" class="arrow"/>
+<rect x="662" y="890" width="185" height="210" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="754.5" y="924" class="card-title" text-anchor="middle" fill="#5b438f">Parameter</text>
+<text x="754.5" y="960" class="body muted" text-anchor="middle">Horizon = 24h</text>
+<path d="M848 995.0 L858 995.0" class="arrow"/>
+<rect x="861" y="890" width="185" height="210" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="953.5" y="924" class="card-title" text-anchor="middle" fill="#23606b">API</text>
+<text x="953.5" y="960" class="body muted" text-anchor="middle">POST /api/ask</text>
+<path d="M1047 995.0 L1057 995.0" class="arrow"/>
+<rect x="1060" y="890" width="185" height="210" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1152.5" y="924" class="card-title" text-anchor="middle" fill="#81600d">Compute</text>
+<text x="1152.5" y="960" class="body muted" text-anchor="middle">Forecast</text>
+<text x="1152.5" y="979" class="body muted" text-anchor="middle">module</text>
+<path d="M1246 995.0 L1256 995.0" class="arrow"/>
+<rect x="1259" y="890" width="185" height="210" rx="13" fill="#fff1ee" stroke="#cf806e" stroke-width="2"/>
+<text x="1351.5" y="924" class="card-title" text-anchor="middle" fill="#8b4537">Check</text>
+<text x="1351.5" y="960" class="body muted" text-anchor="middle">History</text>
+<text x="1351.5" y="979" class="body muted" text-anchor="middle">continuity</text>
+<path d="M1445 995.0 L1455 995.0" class="arrow"/>
+<rect x="1458" y="890" width="185" height="210" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1550.5" y="924" class="card-title" text-anchor="middle" fill="#81600d">Choose model</text>
+<text x="1550.5" y="960" class="body muted" text-anchor="middle">168h weekly;</text>
+<text x="1550.5" y="979" class="body muted" text-anchor="middle">else 24h /</text>
+<text x="1550.5" y="998" class="body muted" text-anchor="middle">median</text>
+<path d="M1644 995.0 L1654 995.0" class="arrow"/>
+<rect x="1657" y="890" width="185" height="210" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1749.5" y="924" class="card-title" text-anchor="middle" fill="#81600d">Predict</text>
+<text x="1749.5" y="960" class="body muted" text-anchor="middle">Generate 24</text>
+<text x="1749.5" y="979" class="body muted" text-anchor="middle">hourly values</text>
+<path d="M1843 995.0 L1853 995.0" class="arrow"/>
+<rect x="1856" y="890" width="185" height="210" rx="13" fill="#fff1ee" stroke="#cf806e" stroke-width="2"/>
+<text x="1948.5" y="924" class="card-title" text-anchor="middle" fill="#8b4537">Guard</text>
+<text x="1948.5" y="960" class="body muted" text-anchor="middle">Freshness +</text>
+<text x="1948.5" y="979" class="body muted" text-anchor="middle">caveat</text>
+<path d="M2042 995.0 L2052 995.0" class="arrow"/>
+<rect x="2055" y="890" width="185" height="210" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="2147.5" y="924" class="card-title" text-anchor="middle" fill="#23606b">Return</text>
+<text x="2147.5" y="960" class="body muted" text-anchor="middle">Structured</text>
+<text x="2147.5" y="979" class="body muted" text-anchor="middle">JSON</text>
+<path d="M2241 995.0 L2251 995.0" class="arrow"/>
+<rect x="2254" y="890" width="185" height="210" rx="13" fill="#f4f0ff" stroke="#8d78c6" stroke-width="2"/>
+<text x="2346.5" y="924" class="card-title" text-anchor="middle" fill="#5b438f">Explain</text>
+<text x="2346.5" y="960" class="body muted" text-anchor="middle">Grounded</text>
+<text x="2346.5" y="979" class="body muted" text-anchor="middle">answer</text>
+<path d="M2440 995.0 L2450 995.0" class="arrow"/>
+<rect x="2453" y="890" width="185" height="210" rx="13" fill="#eef7f2" stroke="#68a388" stroke-width="2"/>
+<text x="2545.5" y="924" class="card-title" text-anchor="middle" fill="#296b4f">Display</text>
+<text x="2545.5" y="960" class="body muted" text-anchor="middle">Chart +</text>
+<text x="2545.5" y="979" class="body muted" text-anchor="middle">explanation</text>
+<rect x="38" y="1220" width="2624" height="275" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="38" y="1220" width="2624" height="52" rx="16" fill="#fff1ee" stroke="#fff1ee" stroke-width="0"/>
+<rect x="38" y="1260" width="2624" height="12" rx="0" fill="#fff1ee" stroke="#fff1ee" stroke-width="0"/>
+<rect x="38" y="1220" width="8" height="275" rx="4" fill="#8b4537" stroke="#8b4537" stroke-width="0"/>
+<text x="66" y="1255" class="label" text-anchor="start" fill="#8b4537">GUARDRAILS AND RELIABILITY</text>
+<rect x="70" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="270.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">Schema / missing values</text>
+<rect x="492" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="692.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">Invalid timestamps / duplicates</text>
+<rect x="914" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1114.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">Date coverage + timezone</text>
+<rect x="1336" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1536.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">Min 3 forecast points</text>
+<rect x="1758" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1958.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">168h / 24h continuity</text>
+<rect x="2180" y="1295" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="2380.0" y="1322" class="small" text-anchor="middle" fill="#8b4537">Horizon &lt;=168 hours</text>
+<rect x="70" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="270.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">Stale data &gt;7 days</text>
+<rect x="492" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="692.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">Anomaly limit &lt;=200</text>
+<rect x="914" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1114.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">Chronological holdout</text>
+<rect x="1336" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1536.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">MAPE floor 0.1 kW</text>
+<rect x="1758" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="1958.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">Grounded numeric response</text>
+<rect x="2180" y="1360" width="400" height="42" rx="21" fill="#fff1ee" stroke="#cf806e" stroke-width="1.5"/>
+<text x="2380.0" y="1387" class="small" text-anchor="middle" fill="#8b4537">HTTP error handling</text>
+<text x="70" y="1465" class="small muted" text-anchor="start">The source is one household of historical data. No live grid, weather, occupancy, appliance events or verified fault labels are present.</text>
+</svg>

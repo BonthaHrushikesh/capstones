@@ -1,0 +1,41 @@
+{
+  "rows_loaded": 2075259,
+  "rows_after_cleaning": 2075259,
+  "invalid_timestamps_removed": 0,
+  "duplicate_timestamps_removed": 0,
+  "missing_measurements_before_by_column": {
+    "Global_active_power": 25979,
+    "Global_reactive_power": 25979,
+    "Voltage": 25979,
+    "Global_intensity": 25979,
+    "Sub_metering_1": 25979,
+    "Sub_metering_2": 25979,
+    "Sub_metering_3": 25979
+  },
+  "missing_measurements_after_by_column": {
+    "Global_active_power": 0,
+    "Global_reactive_power": 0,
+    "Voltage": 0,
+    "Global_intensity": 0,
+    "Sub_metering_1": 0,
+    "Sub_metering_2": 0,
+    "Sub_metering_3": 0
+  },
+  "start_timestamp": "2006-12-16T17:24:00",
+  "end_timestamp": "2010-11-26T21:02:00",
+  "added_features": [
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_month",
+    "is_weekend"
+  ],
+  "cleaning_rules": [
+    "Semicolon delimiter; '?' and blank readings are missing.",
+    "Parse day-first date and time; reject invalid timestamps and keep last duplicate.",
+    "Interpolate internal gaps up to five consecutive minutes; median-fill remaining readings.",
+    "Write a separate cleaned output; source file is never modified."
+  ],
+  "source_file": "Original UCI raw text file (not included)",
+  "cleaned_file": "data/processed/household_power_consumption_cleaned.csv"
+}

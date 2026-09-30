@@ -1,0 +1,3560 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1620.00 960.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 21082 >>
+stream
+q
+0.60 w
+0.00 960.00 m
+7.20 956.40 l
+0.00 952.80 l
+S
+0.00 952.80 m 9.84 953.25 l 6.26 960.40 l h f
+Q
+q
+0.961 0.965 0.973 rg
+0.60 w
+0.00 0.00 1620.00 960.00 re
+f
+Q
+BT
+/F2 10.80 Tf
+0.463 0.353 0.071 rg
+1 0 0 1 33.00 925.20 Tm
+(AI-POWERED SMART GRID ENERGY INTELLIGENCE ASSISTANT) Tj
+ET
+BT
+/F2 25.20 Tf
+0.090 0.125 0.200 rg
+1 0 0 1 33.00 892.80 Tm
+(Complete Workflow Architecture) Tj
+ET
+BT
+/F1 12.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 33.00 869.40 Tm
+(End-to-end system view. Follow the numbered flow, then use the lower panels for component and storage detail.) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1477.08 925.20 Tm
+(1 / 3  SYSTEM OVERVIEW) Tj
+ET
+q
+0.929 0.957 1.000 rg
+0.451 0.580 0.761 RG
+1.20 w
+22.80 714.00 126.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.157 0.318 0.498 rg
+1 0 0 1 52.21 807.60 Tm
+(Raw energy) Tj
+ET
+BT
+/F2 13.80 Tf
+0.157 0.318 0.498 rg
+1 0 0 1 72.00 792.00 Tm
+(data) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 42.57 770.40 Tm
+(UCI household CSV) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 56.18 759.60 Tm
+(Date, time, 7) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 69.60 748.80 Tm
+(meters) Tj
+ET
+q
+0.157 0.318 0.498 rg
+0.157 0.318 0.498 RG
+0.00 w
+73.80 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 82.97 823.20 Tm
+(1) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+150.00 771.00 m
+156.00 771.00 l
+S
+0.400 0.439 0.522 rg
+156.00 771.00 m 147.00 775.00 l 147.00 767.00 l h f
+Q
+q
+0.929 0.957 1.000 rg
+0.451 0.580 0.761 RG
+1.20 w
+158.40 714.00 132.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.157 0.318 0.498 rg
+1 0 0 1 180.46 807.60 Tm
+(Data ingestion) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 178.95 786.00 Tm
+(Read semicolon CSV) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 189.86 775.20 Tm
+(Combine date +) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 214.95 764.40 Tm
+(time) Tj
+ET
+q
+0.157 0.318 0.498 rg
+0.157 0.318 0.498 RG
+0.00 w
+212.40 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 221.57 823.20 Tm
+(2) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+291.60 771.00 m
+297.60 771.00 l
+S
+0.400 0.439 0.522 rg
+297.60 771.00 m 288.60 775.00 l 288.60 767.00 l h f
+Q
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+300.00 714.00 147.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 325.92 807.60 Tm
+(Clean + validate) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 337.76 786.00 Tm
+(Timestamps and) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 354.60 775.20 Tm
+(numbers) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 329.66 764.40 Tm
+(Remove duplicates,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 354.45 753.60 Tm
+(fill gaps) Tj
+ET
+q
+0.153 0.416 0.306 rg
+0.153 0.416 0.306 RG
+0.00 w
+361.50 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 370.67 823.20 Tm
+(3) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+448.20 771.00 m
+454.20 771.00 l
+S
+0.400 0.439 0.522 rg
+454.20 771.00 m 445.20 775.00 l 445.20 767.00 l h f
+Q
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+456.60 714.00 147.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 479.26 807.60 Tm
+(Time-series prep) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 494.36 786.00 Tm
+(Datetime index,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 502.95 775.20 Tm
+(minute rows) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 478.83 764.40 Tm
+(Hourly means and kWh) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 516.60 753.60 Tm
+(fields) Tj
+ET
+q
+0.153 0.416 0.306 rg
+0.153 0.416 0.306 RG
+0.00 w
+518.10 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 527.27 823.20 Tm
+(4) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+604.80 771.00 m
+610.80 771.00 l
+S
+0.400 0.439 0.522 rg
+610.80 771.00 m 601.80 775.00 l 601.80 767.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+613.20 714.00 225.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 663.50 807.60 Tm
+(Analytics + AI engine) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 685.91 786.00 Tm
+(Energy analytics) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 683.21 775.20 Tm
+(Anomaly detection) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 666.86 764.40 Tm
+(Forecasting + evaluation) Tj
+ET
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+713.70 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 722.87 823.20 Tm
+(5) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+839.40 771.00 m
+845.40 771.00 l
+S
+0.400 0.439 0.522 rg
+845.40 771.00 m 836.40 775.00 l 836.40 767.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+847.80 714.00 132.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 878.68 807.60 Tm
+(Structured) Tj
+ET
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 891.38 792.00 Tm
+(results) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 874.12 770.40 Tm
+(Metrics, trends,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 893.55 759.60 Tm
+(evidence) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 887.66 748.80 Tm
+(Forecasts,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 878.55 738.00 Tm
+(caveats, trace) Tj
+ET
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+901.80 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 910.97 823.20 Tm
+(6) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+981.00 771.00 m
+987.00 771.00 l
+S
+0.400 0.439 0.522 rg
+987.00 771.00 m 978.00 775.00 l 978.00 767.00 l h f
+Q
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+989.40 714.00 132.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 1014.10 807.60 Tm
+(API / backend) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1018.69 786.00 Tm
+(FastAPI routes) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1026.41 775.20 Tm
+(Validate and) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1024.95 764.40 Tm
+(return JSON) Tj
+ET
+q
+0.137 0.376 0.420 rg
+0.137 0.376 0.420 RG
+0.00 w
+1043.40 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 1052.57 823.20 Tm
+(7) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1122.60 771.00 m
+1128.60 771.00 l
+S
+0.400 0.439 0.522 rg
+1128.60 771.00 m 1119.60 775.00 l 1119.60 767.00 l h f
+Q
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+1131.00 714.00 141.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 1164.46 807.60 Tm
+(AI assistant) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1152.26 786.00 Tm
+(Understand question) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1160.21 775.20 Tm
+(Select evidence +) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1185.30 764.40 Tm
+(explain) Tj
+ET
+q
+0.357 0.263 0.561 rg
+0.357 0.263 0.561 RG
+0.00 w
+1189.50 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 1198.67 823.20 Tm
+(8) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1273.20 771.00 m
+1279.20 771.00 l
+S
+0.400 0.439 0.522 rg
+1279.20 771.00 m 1270.20 775.00 l 1270.20 767.00 l h f
+Q
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1281.60 714.00 141.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1306.57 807.60 Tm
+(Web dashboard) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1310.33 786.00 Tm
+(Charts, tables, AI) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1341.30 775.20 Tm
+(chat) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1306.91 764.40 Tm
+(Date-scoped pages) Tj
+ET
+q
+0.161 0.420 0.310 rg
+0.161 0.420 0.310 RG
+0.00 w
+1340.10 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 1349.27 823.20 Tm
+(9) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1423.80 771.00 m
+1429.80 771.00 l
+S
+0.400 0.439 0.522 rg
+1429.80 771.00 m 1420.80 775.00 l 1420.80 767.00 l h f
+Q
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1432.20 714.00 105.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1470.28 807.60 Tm
+(User) Tj
+ET
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1460.55 792.00 Tm
+(insights) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1469.36 770.40 Tm
+(Review) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1464.45 759.60 Tm
+(evidence) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1462.46 748.80 Tm
+(Plan next) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1471.20 738.00 Tm
+(steps) Tj
+ET
+q
+0.161 0.420 0.310 rg
+0.161 0.420 0.310 RG
+0.00 w
+1472.70 817.80 24.00 18.00 re
+B
+Q
+BT
+/F1 9.60 Tf
+1.000 1.000 1.000 rg
+1 0 0 1 1479.04 823.20 Tm
+(10) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 348.00 498.00 333.00 re
+B
+Q
+q
+0.929 0.973 0.953 rg
+0.929 0.973 0.953 RG
+0.00 w
+22.80 649.80 498.00 31.20 re
+B
+Q
+q
+0.929 0.973 0.953 rg
+0.929 0.973 0.953 RG
+0.00 w
+22.80 649.80 498.00 7.20 re
+B
+Q
+q
+0.153 0.416 0.306 rg
+0.153 0.416 0.306 RG
+0.00 w
+22.80 348.00 4.80 333.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 39.60 660.00 Tm
+(DATA INPUT, QUALITY AND PREPARATION) Tj
+ET
+q
+0.929 0.957 1.000 rg
+0.451 0.580 0.761 RG
+1.20 w
+39.00 543.00 225.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.157 0.318 0.498 rg
+1 0 0 1 51.60 618.60 Tm
+(Source columns) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 597.00 Tm
+(Date + Time; Global Active Power) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 581.40 Tm
+(Global Reactive Power; Voltage) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 565.80 Tm
+(Global Intensity; Sub-metering 1-3) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 550.20 Tm
+(Raw source file is optional at) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 534.60 Tm
+(runtime) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+277.20 543.00 225.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 289.80 618.60 Tm
+(Cleaning rules) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 597.00 Tm
+(Drop invalid timestamps; keep last) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 581.40 Tm
+(duplicate) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 565.80 Tm
+(Coerce seven meter columns to) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 550.20 Tm
+(numeric) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 534.60 Tm
+(Interpolate internal gaps up to 5) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 519.00 Tm
+(minutes) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 503.40 Tm
+(Median-fill remaining missing) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 289.80 487.80 Tm
+(readings) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+39.00 441.00 463.20 87.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 51.60 507.60 Tm
+(Quality report + API checks) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 486.00 Tm
+(Loaded/cleaned records, missing values, duplicates, invalid times) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 470.40 Tm
+(Date coverage and applied cleaning rules; API reports 1-minute sampling) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 454.80 Tm
+(Runtime validates schema, numeric data, timestamps, and date bounds) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+39.00 357.00 463.20 69.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 51.60 405.60 Tm
+(Time-series preparation) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 384.00 Tm
+(Datetime index; hour/weekday/date/month groupings; hourly means) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 51.60 368.40 Tm
+(Active energy = sum / 60; sub-meter Wh = hourly sum / 1000; Other = residual) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+535.20 348.00 558.00 333.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+535.20 649.80 558.00 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+535.20 649.80 558.00 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+535.20 348.00 4.80 333.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 552.00 660.00 Tm
+(ANALYTICS AND MACHINE-LEARNING MODULES) Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+550.80 516.00 255.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 563.40 618.60 Tm
+(Energy analytics) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 597.00 Tm
+(Mean, max, P95, peak timestamp and hours) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 581.40 Tm
+(Weekday profile; daily and monthly) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 565.80 Tm
+(trends) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 550.20 Tm
+(Total kWh; estimated sub-meter mix) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 534.60 Tm
+(Voltage, current, and reactive-power) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 519.00 Tm
+(means) Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+816.00 516.00 261.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 828.60 618.60 Tm
+(Anomaly detection) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 597.00 Tm
+(Weekday-hour median + robust MAD score) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 581.40 Tm
+(Isolation Forest candidate signal) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 565.80 Tm
+(Combine candidates; rank by MAD score) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 550.20 Tm
+(Unusual patterns are review candidates) Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+550.80 378.00 255.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 563.40 480.60 Tm
+(Forecasting) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 459.00 Tm
+(Check continuity and history sufficiency) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 443.40 Tm
+(168-hour weekly, 24-hour daily fallback) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 427.80 Tm
+(Recent median / insufficient-history) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 412.20 Tm
+(fallback) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 396.60 Tm
+(Bound horizon to 1-168 hours; stale) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 563.40 381.00 Tm
+(warning) Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+816.00 378.00 261.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 828.60 480.60 Tm
+(Forecast evaluation) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 459.00 Tm
+(Chronological train/test holdout) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 443.40 Tm
+(MAE, RMSE, MAPE; minimum 48 hours) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 427.80 Tm
+(MAPE denominator floor: 0.1 kW) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 412.20 Tm
+(Evaluation baseline is computed) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.60 396.60 Tm
+(separately) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+1107.00 348.00 490.20 333.00 re
+B
+Q
+q
+0.929 0.969 0.980 rg
+0.929 0.969 0.980 RG
+0.00 w
+1107.00 649.80 490.20 31.20 re
+B
+Q
+q
+0.929 0.969 0.980 rg
+0.929 0.969 0.980 RG
+0.00 w
+1107.00 649.80 490.20 7.20 re
+B
+Q
+q
+0.137 0.376 0.420 rg
+0.137 0.376 0.420 RG
+0.00 w
+1107.00 348.00 4.80 333.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 1123.80 660.00 Tm
+(APPLICATION AND USER EXPERIENCE) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+1122.00 558.00 459.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 1134.60 618.60 Tm
+(API / backend) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 597.00 Tm
+(GET summary, trends, anomalies, forecast, evaluation, quality, search) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 581.40 Tm
+(POST /api/ask; date/parameter validation; HTTP error handling) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 565.80 Tm
+(JSON responses connect React pages to Python calculations) Tj
+ET
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+1122.00 459.00 459.00 87.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 1134.60 525.60 Tm
+(AI Energy Intelligence Assistant) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 504.00 Tm
+(Rule-based query understanding; identify intent and parameters) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 488.40 Tm
+(Call requested backend calculations; rank keyword evidence) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 472.80 Tm
+(Build factual answer + trace; optional LLM phrasing is grounding-checked) Tj
+ET
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1122.00 366.00 459.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1134.60 426.60 Tm
+(Web dashboard) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 405.00 Tm
+(Overview / Analytics / Anomalies / Forecast / Insights / Reports) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 389.40 Tm
+(Data Quality / Evaluation / AI Chat; renders charts and tables) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1134.60 373.80 Tm
+(Responses and feedback are shown in the browser) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 144.00 768.00 186.00 re
+B
+Q
+q
+0.945 0.953 0.965 rg
+0.945 0.953 0.965 RG
+0.00 w
+22.80 298.80 768.00 31.20 re
+B
+Q
+q
+0.945 0.953 0.965 rg
+0.945 0.953 0.965 RG
+0.00 w
+22.80 298.80 768.00 7.20 re
+B
+Q
+q
+0.325 0.365 0.416 rg
+0.325 0.365 0.416 RG
+0.00 w
+22.80 144.00 4.80 186.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.325 0.365 0.416 rg
+1 0 0 1 39.60 309.00 Tm
+(DATA STORAGE) Tj
+ET
+q
+0.945 0.953 0.965 rg
+0.573 0.600 0.643 RG
+1.20 w
+37.20 174.00 177.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.325 0.365 0.416 rg
+1 0 0 1 49.80 267.60 Tm
+(Raw) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 49.80 246.00 Tm
+(Original semicolon CSV) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 49.80 230.40 Tm
+(Not bundled; optional) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 49.80 214.80 Tm
+(for preprocessing) Tj
+ET
+q
+0.945 0.953 0.965 rg
+0.573 0.600 0.643 RG
+1.20 w
+225.00 174.00 177.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.325 0.365 0.416 rg
+1 0 0 1 237.60 267.60 Tm
+(Processed) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 237.60 246.00 Tm
+(Cleaned minute CSV) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 237.60 230.40 Tm
+(Hourly DataFrame is) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 237.60 214.80 Tm
+(derived in memory) Tj
+ET
+q
+0.945 0.953 0.965 rg
+0.573 0.600 0.643 RG
+1.20 w
+412.80 174.00 177.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.325 0.365 0.416 rg
+1 0 0 1 425.40 267.60 Tm
+(Metadata) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 425.40 246.00 Tm
+(Quality JSON) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 425.40 230.40 Tm
+(Cleaning rules and) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 425.40 214.80 Tm
+(source date coverage) Tj
+ET
+q
+0.945 0.953 0.965 rg
+0.573 0.600 0.643 RG
+1.20 w
+600.60 174.00 177.00 114.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.325 0.365 0.416 rg
+1 0 0 1 613.20 267.60 Tm
+(Results) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 613.20 246.00 Tm
+(Returned as API JSON) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 613.20 230.40 Tm
+(No results database) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 613.20 214.80 Tm
+(Chat evaluation in browser) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+807.00 144.00 790.20 186.00 re
+B
+Q
+q
+1.000 0.945 0.933 rg
+1.000 0.945 0.933 RG
+0.00 w
+807.00 298.80 790.20 31.20 re
+B
+Q
+q
+1.000 0.945 0.933 rg
+1.000 0.945 0.933 RG
+0.00 w
+807.00 298.80 790.20 7.20 re
+B
+Q
+q
+0.545 0.271 0.216 rg
+0.545 0.271 0.216 RG
+0.00 w
+807.00 144.00 4.80 186.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 823.80 309.00 Tm
+(GUARDRAILS AND RELIABILITY) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+822.00 262.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 848.13 271.80 Tm
+(Missing / invalid data checks) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1005.00 262.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1031.16 271.80 Tm
+(Duplicate and date validation) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1188.00 262.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1211.76 271.80 Tm
+(History and continuity checks) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1371.00 262.80 204.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1424.30 271.80 Tm
+(Stale forecast warning) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+822.00 226.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 865.20 235.80 Tm
+(Anomaly API cap: 200) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1005.00 226.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1027.33 235.80 Tm
+(Dashboard requests up to 100) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1188.00 226.80 174.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1233.36 235.80 Tm
+(MAPE floor: 0.1 kW) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1371.00 226.80 204.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1408.56 235.80 Tm
+(Chronological holdout + errors) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 828.00 189.00 Tm
+(Limits shown match the implementation; anomaly flags are not confirmed faults.) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 33.00 54.00 Tm
+(Runtime note: the included cleaned CSV is read by FastAPI; agent modules run in-process and are not separate services.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1620.00 960.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 13014 >>
+stream
+q
+0.60 w
+0.00 960.00 m
+7.20 956.40 l
+0.00 952.80 l
+S
+0.00 952.80 m 9.84 953.25 l 6.26 960.40 l h f
+Q
+q
+0.961 0.965 0.973 rg
+0.60 w
+0.00 0.00 1620.00 960.00 re
+f
+Q
+BT
+/F2 10.80 Tf
+0.463 0.353 0.071 rg
+1 0 0 1 33.00 925.20 Tm
+(AI-POWERED SMART GRID ENERGY INTELLIGENCE ASSISTANT) Tj
+ET
+BT
+/F2 25.20 Tf
+0.090 0.125 0.200 rg
+1 0 0 1 33.00 892.80 Tm
+(Analytics and AI Engine - Technical Detail) Tj
+ET
+BT
+/F1 12.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 33.00 869.40 Tm
+(The four modules share date-scoped hourly data. Branch steps and limits below follow the Python implementation.) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1479.10 925.20 Tm
+(2 / 3  ANALYTICS ENGINE) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 480.00 768.00 360.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 808.80 768.00 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 808.80 768.00 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+22.80 480.00 4.80 360.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 39.60 819.00 Tm
+(A. ENERGY ANALYTICS) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+40.80 702.00 234.00 93.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 53.40 774.60 Tm
+(Input) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 753.00 Tm
+(Selected hourly data) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 737.40 Tm
+(Global_active_power) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 721.80 Tm
+(Sub-meter energy fields) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+282.00 750.00 m
+312.00 750.00 l
+S
+0.400 0.439 0.522 rg
+312.00 750.00 m 303.00 754.00 l 303.00 746.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+321.00 654.00 450.00 156.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 333.60 789.60 Tm
+(Demand statistics) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 333.60 768.00 Tm
+(Mean active power; maximum hourly mean and timestamp) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 333.60 752.40 Tm
+(P95 demand; minimum; top three clock-hour averages) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 333.60 736.80 Tm
+(Weekday profile; daily and monthly trends; daily change) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 333.60 721.20 Tm
+(Total estimated kWh; sub-meter 1/2/3 + Other residual) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 333.60 705.60 Tm
+(Voltage, current \(Global Intensity\), reactive-power means) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+546.00 648.00 m
+546.00 621.00 l
+S
+0.400 0.439 0.522 rg
+546.00 621.00 m 550.00 630.00 l 542.00 630.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+135.00 513.00 540.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 147.60 588.60 Tm
+(Energy insights) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 147.60 567.00 Tm
+(Structured summary, hourly profiles, daily/monthly series, evidence strings) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 147.60 551.40 Tm
+(Used by dashboard pages, Copilot, composed insight and decision routes) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+696.00 513.00 78.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 725.13 588.60 Tm
+(API) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 722.26 567.00 Tm
+(JSON) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 717.45 551.40 Tm
+(metrics) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+816.00 480.00 781.20 360.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+816.00 808.80 781.20 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+816.00 808.80 781.20 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+816.00 480.00 4.80 360.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 832.80 819.00 Tm
+(B. ANOMALY DETECTION) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+834.00 714.00 156.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 846.60 774.60 Tm
+(Hourly demand) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 846.60 753.00 Tm
+(Apply selected dates) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 846.60 737.40 Tm
+(Drop missing power) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+996.00 754.20 m
+1014.00 754.20 l
+S
+0.400 0.439 0.522 rg
+1014.00 754.20 m 1005.00 758.20 l 1005.00 750.20 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+1020.00 714.00 171.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1032.60 774.60 Tm
+(Weekday + hour) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1032.60 753.00 Tm
+(Group matching slots) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1032.60 737.40 Tm
+(Calculate slot median) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1197.00 754.20 m
+1215.00 754.20 l
+S
+0.400 0.439 0.522 rg
+1215.00 754.20 m 1206.00 758.20 l 1206.00 750.20 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+1221.00 714.00 156.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1233.60 774.60 Tm
+(Robust deviation) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1233.60 753.00 Tm
+(MAD x 1.4826) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1233.60 737.40 Tm
+(Flag |score| >= 4.5) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1383.00 754.20 m
+1401.00 754.20 l
+S
+0.400 0.439 0.522 rg
+1401.00 754.20 m 1392.00 758.20 l 1392.00 750.20 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+1407.00 714.00 171.00 81.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1419.60 774.60 Tm
+(Isolation Forest) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1419.60 753.00 Tm
+(Cached hourly model) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1419.60 737.40 Tm
+(Separate candidate flag) Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+846.00 549.00 324.00 132.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 858.60 660.60 Tm
+(Combine and rank) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 858.60 639.00 Tm
+(Candidate = MAD threshold OR Isolation Forest flag) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 858.60 623.40 Tm
+(Sort candidates by absolute MAD score) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 858.60 607.80 Tm
+(Return observed, baseline, score, and prior-) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 858.60 592.20 Tm
+(hour/day/week values) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1188.00 615.00 m
+1215.00 615.00 l
+S
+0.400 0.439 0.522 rg
+1215.00 615.00 m 1206.00 619.00 l 1206.00 611.00 l h f
+Q
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+1.20 w
+1224.00 549.00 342.00 132.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1236.60 660.60 Tm
+(Result limit and meaning) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1236.60 639.00 Tm
+(API accepts limit 1-200; direct function caps at 200) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1236.60 623.40 Tm
+(Dashboard currently requests up to 100 results) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1236.60 607.80 Tm
+(Anomaly result is a statistical review candidate, not a) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1236.60 592.20 Tm
+(fault) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 846.00 519.00 Tm
+(Fallback: if Isolation Forest cannot run, use weekday-hour MAD alone.) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 99.00 768.00 360.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 427.80 768.00 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 427.80 768.00 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+22.80 99.00 4.80 360.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 39.60 438.00 Tm
+(C. FORECASTING) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+40.80 324.00 189.00 87.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 53.40 390.60 Tm
+(Select history) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 369.00 Tm
+(Filter date range) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 353.40 Tm
+(Exclude hours <45 minutes) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 337.80 Tm
+(Require at least 3 points) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+234.00 367.20 m
+255.00 367.20 l
+S
+0.400 0.439 0.522 rg
+255.00 367.20 m 246.00 371.20 l 246.00 363.20 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+261.00 324.00 204.00 87.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 273.60 390.60 Tm
+(History continuity) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 273.60 369.00 Tm
+(168 continuous hours?) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 273.60 353.40 Tm
+(Else 24 continuous hours?) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 273.60 337.80 Tm
+(Else use median fallback) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+471.00 367.20 m
+492.00 367.20 l
+S
+0.400 0.439 0.522 rg
+492.00 367.20 m 483.00 371.20 l 483.00 363.20 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+498.00 303.00 273.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 510.60 405.60 Tm
+(Fallback hierarchy) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 384.00 Tm
+(1. Weekly seasonal-naive: repeat prior) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 368.40 Tm
+(168-hour pattern) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 352.80 Tm
+(2. Daily seasonal: repeat prior 24-hour) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 337.20 Tm
+(pattern) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 321.60 Tm
+(3. Recent median when >=24 hourly points) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 306.00 Tm
+(4. Insufficient-history placeholder below) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 510.60 290.40 Tm
+(that) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+40.80 153.00 730.20 135.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 53.40 267.60 Tm
+(Forecast output and safeguards) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 246.00 Tm
+(Generate next N hours; horizon is bounded to 1-168 hours) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 230.40 Tm
+(Return model, fallback_used, history_end, mean and hourly values) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 214.80 Tm
+(Warn if latest selected reading is older than 7 days) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 199.20 Tm
+(Caveat: historical baseline only; no weather or occupancy inputs) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+816.00 99.00 781.20 360.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+816.00 427.80 781.20 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+816.00 427.80 781.20 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+816.00 99.00 4.80 360.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 832.80 438.00 Tm
+(D. FORECAST EVALUATION) Tj
+ET
+q
+0.929 0.973 0.953 rg
+0.400 0.651 0.545 RG
+1.20 w
+834.00 315.00 189.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.153 0.416 0.306 rg
+1 0 0 1 846.60 390.60 Tm
+(Historical series) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 846.60 369.00 Tm
+(Selected hourly power) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 846.60 353.40 Tm
+(At least 48 hours required) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1026.00 363.00 m
+1047.00 363.00 l
+S
+0.400 0.439 0.522 rg
+1047.00 363.00 m 1038.00 367.00 l 1038.00 359.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+1053.00 315.00 219.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1065.60 390.60 Tm
+(Chronological split) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1065.60 369.00 Tm
+(Final 24 to 672 hours held out) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1065.60 353.40 Tm
+(Train only on earlier values) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1065.60 337.80 Tm
+(No future-data leakage) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1275.00 363.00 m
+1296.00 363.00 l
+S
+0.400 0.439 0.522 rg
+1296.00 363.00 m 1287.00 367.00 l 1287.00 359.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+1302.00 315.00 267.00 96.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1314.60 390.60 Tm
+(Seasonal-naive predictions) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1314.60 369.00 Tm
+(168-hour lag if training >=168 hours) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1314.60 353.40 Tm
+(Otherwise 24-hour lag) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1434.00 309.00 m
+1434.00 288.00 l
+S
+0.400 0.439 0.522 rg
+1434.00 288.00 m 1438.00 297.00 l 1430.00 297.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+891.00 165.00 618.00 111.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 903.60 255.60 Tm
+(Evaluation metrics) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 903.60 234.00 Tm
+(MAE: average absolute error | RMSE: error with larger misses weighted more) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 903.60 218.40 Tm
+(MAPE: percentage error; denominator is floored at 0.1 kW near zero) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 903.60 202.80 Tm
+(Forecast evaluation is a separate holdout calculation, not the live forecast output) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1620.00 960.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 17913 >>
+stream
+q
+0.60 w
+0.00 960.00 m
+7.20 956.40 l
+0.00 952.80 l
+S
+0.00 952.80 m 9.84 953.25 l 6.26 960.40 l h f
+Q
+q
+0.961 0.965 0.973 rg
+0.60 w
+0.00 0.00 1620.00 960.00 re
+f
+Q
+BT
+/F2 10.80 Tf
+0.463 0.353 0.071 rg
+1 0 0 1 33.00 925.20 Tm
+(AI-POWERED SMART GRID ENERGY INTELLIGENCE ASSISTANT) Tj
+ET
+BT
+/F2 25.20 Tf
+0.090 0.125 0.200 rg
+1 0 0 1 33.00 892.80 Tm
+(API, Assistant and Dashboard Workflow) Tj
+ET
+BT
+/F1 12.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 33.00 869.40 Tm
+(A request enters FastAPI, the Copilot selects supported local evidence, and React displays structured results.) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1448.03 925.20 Tm
+(3 / 3  REQUEST AND USER FLOW) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 516.00 492.00 324.00 re
+B
+Q
+q
+0.929 0.969 0.980 rg
+0.929 0.969 0.980 RG
+0.00 w
+22.80 808.80 492.00 31.20 re
+B
+Q
+q
+0.929 0.969 0.980 rg
+0.929 0.969 0.980 RG
+0.00 w
+22.80 808.80 492.00 7.20 re
+B
+Q
+q
+0.137 0.376 0.420 rg
+0.137 0.376 0.420 RG
+0.00 w
+22.80 516.00 4.80 324.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 39.60 819.00 Tm
+(API / APPLICATION LAYER) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+40.80 672.00 213.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 53.40 774.60 Tm
+(Request path) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 753.00 Tm
+(GET focused analytics endpoints) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 737.40 Tm
+(POST /api/ask\(question, dates,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 721.80 Tm
+(context\)) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 706.20 Tm
+(Validate request length and date) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 690.60 Tm
+(parameters) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 675.00 Tm
+(Apply topic, date and context) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 659.40 Tm
+(guardrails) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 643.80 Tm
+(Map data errors to HTTP) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 628.20 Tm
+(responses) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+268.80 672.00 225.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 281.40 774.60 Tm
+(Response shape) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 753.00 Tm
+(Endpoint-specific JSON metrics) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 737.40 Tm
+(Copilot: answer + evidence + trace) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 721.80 Tm
+(NLP interpretation + search) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 706.20 Tm
+(results) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 690.60 Tm
+(Forecast model and caveats) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 675.00 Tm
+(No results database; results) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 281.40 659.40 Tm
+(returned to caller) Tj
+ET
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+40.80 543.00 453.00 111.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 53.40 633.60 Tm
+(Important routes) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 612.00 Tm
+(GET /api/summary, /trends, /anomalies, /forecast, /evaluation) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 596.40 Tm
+(GET /api/data-quality, /search, /agents/insight, /agents/decision) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 53.40 580.80 Tm
+(POST /api/ask; FastAPI also serves the built React app) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+531.00 516.00 501.00 324.00 re
+B
+Q
+q
+0.957 0.941 1.000 rg
+0.957 0.941 1.000 RG
+0.00 w
+531.00 808.80 501.00 31.20 re
+B
+Q
+q
+0.957 0.941 1.000 rg
+0.957 0.941 1.000 RG
+0.00 w
+531.00 808.80 501.00 7.20 re
+B
+Q
+q
+0.357 0.263 0.561 rg
+0.357 0.263 0.561 RG
+0.00 w
+531.00 516.00 4.80 324.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 547.80 819.00 Tm
+(AI ENERGY INTELLIGENCE ASSISTANT) Tj
+ET
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+549.00 648.00 465.00 147.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 561.60 774.60 Tm
+(Question understanding) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 753.00 Tm
+(Rule-based token normalization, synonyms, intents and parameter extraction) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 737.40 Tm
+(Supported focus: date scope, sub-meter, measurement, weekday, forecast) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 721.80 Tm
+(horizon) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 706.20 Tm
+(Guardrails ask for clarification when the dataset cannot answer the request) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 690.60 Tm
+(Example: "What were the peak demand hours?") Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 675.00 Tm
+(Example: "Did anything unusual happen yesterday?") Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 659.40 Tm
+(Example: "What is the expected demand for the next 24 hours?") Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 643.80 Tm
+(Example: "How much energy was consumed this month?") Tj
+ET
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+549.00 540.00 222.00 93.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 561.60 612.60 Tm
+(Evidence-first answer) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 591.00 Tm
+(Call only the requested) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 575.40 Tm
+(calculations; rank keyword) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 559.80 Tm
+(evidence; compose facts + limits +) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 561.60 544.20 Tm
+(trace) Tj
+ET
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+780.00 540.00 234.00 93.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 792.60 612.60 Tm
+(Optional language model) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 792.60 591.00 Tm
+(No key = local answer; configured) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 792.60 575.40 Tm
+(model may rephrase; unsupported) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 792.60 559.80 Tm
+(numbers are rejected) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+1048.80 516.00 548.40 324.00 re
+B
+Q
+q
+0.933 0.969 0.949 rg
+0.933 0.969 0.949 RG
+0.00 w
+1048.80 808.80 548.40 31.20 re
+B
+Q
+q
+0.933 0.969 0.949 rg
+0.933 0.969 0.949 RG
+0.00 w
+1048.80 808.80 548.40 7.20 re
+B
+Q
+q
+0.161 0.420 0.310 rg
+0.161 0.420 0.310 RG
+0.00 w
+1048.80 516.00 4.80 324.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1065.60 819.00 Tm
+(FRONTEND / PRESENTATION LAYER) Tj
+ET
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1066.80 672.00 252.00 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1079.40 774.60 Tm
+(Dashboard sections) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 753.00 Tm
+(Overview: average, max, total energy,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 737.40 Tm
+(P95) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 721.80 Tm
+(Analytics: demand, daily/monthly, peak) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 706.20 Tm
+(hours) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 690.60 Tm
+(Anomalies: time, observed, baseline,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 675.00 Tm
+(score) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 659.40 Tm
+(Forecast: history, values, model,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 643.80 Tm
+(caveat) Tj
+ET
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1330.80 672.00 248.40 123.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1343.40 774.60 Tm
+(More dashboard sections) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 753.00 Tm
+(Data Quality: records, missing,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 737.40 Tm
+(duplicates, rate) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 721.80 Tm
+(AI Chat: question, answer, evidence,) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 706.20 Tm
+(rating) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 690.60 Tm
+(Insights, reports and CSV export) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1343.40 675.00 Tm
+(Date scope passed to backend endpoints) Tj
+ET
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1066.80 543.00 512.40 111.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1079.40 633.60 Tm
+(How results are shown) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 612.00 Tm
+(React pages call the JSON API through services/api.ts) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 596.40 Tm
+(Charts, tables, metrics and evidence panels render returned values) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1079.40 580.80 Tm
+(Chat evaluation and feedback are saved in browser localStorage) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 246.00 1574.40 246.00 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 460.80 1574.40 31.20 re
+B
+Q
+q
+1.000 0.969 0.906 rg
+1.000 0.969 0.906 RG
+0.00 w
+22.80 460.80 1574.40 7.20 re
+B
+Q
+q
+0.506 0.376 0.051 rg
+0.506 0.376 0.051 RG
+0.00 w
+22.80 246.00 4.80 246.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 39.60 471.00 Tm
+(EXAMPLE END-TO-END QUERY FLOW) Tj
+ET
+BT
+/F2 13.80 Tf
+0.090 0.125 0.200 rg
+1 0 0 1 42.00 456.00 Tm
+(User asks: "What is the expected electricity demand for tomorrow?") Tj
+ET
+q
+0.929 0.957 1.000 rg
+0.451 0.580 0.761 RG
+1.20 w
+39.00 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.157 0.318 0.498 rg
+1 0 0 1 68.00 405.60 Tm
+(Question) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 72.41 384.00 Tm
+(Tomorrow) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 78.30 372.60 Tm
+(demand) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+150.60 363.00 m
+156.60 363.00 l
+S
+0.400 0.439 0.522 rg
+156.60 363.00 m 147.60 367.00 l 147.60 359.00 l h f
+Q
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+158.40 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 178.78 405.60 Tm
+(Understand) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 195.86 384.00 Tm
+(Natural) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 193.65 372.60 Tm
+(language) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+270.00 363.00 m
+276.00 363.00 l
+S
+0.400 0.439 0.522 rg
+276.00 363.00 m 267.00 367.00 l 267.00 359.00 l h f
+Q
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+277.80 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 314.32 405.60 Tm
+(Intent) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 311.21 384.00 Tm
+(Forecast) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+389.40 363.00 m
+395.40 363.00 l
+S
+0.400 0.439 0.522 rg
+395.40 363.00 m 386.40 367.00 l 386.40 359.00 l h f
+Q
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+397.20 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 421.03 405.60 Tm
+(Parameter) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 419.89 384.00 Tm
+(Horizon = 24h) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+508.80 363.00 m
+514.80 363.00 l
+S
+0.400 0.439 0.522 rg
+514.80 363.00 m 505.80 367.00 l 505.80 359.00 l h f
+Q
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+516.60 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 562.23 405.60 Tm
+(API) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 537.60 384.00 Tm
+(POST /api/ask) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+628.20 363.00 m
+634.20 363.00 l
+S
+0.400 0.439 0.522 rg
+634.20 363.00 m 625.20 367.00 l 625.20 359.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+636.00 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 666.73 405.60 Tm
+(Compute) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 669.41 384.00 Tm
+(Forecast) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 676.65 372.60 Tm
+(module) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+747.60 363.00 m
+753.60 363.00 l
+S
+0.400 0.439 0.522 rg
+753.60 363.00 m 744.60 367.00 l 744.60 359.00 l h f
+Q
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+1.20 w
+755.40 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 793.03 405.60 Tm
+(Check) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 792.86 384.00 Tm
+(History) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 786.60 372.60 Tm
+(continuity) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+867.00 363.00 m
+873.00 363.00 l
+S
+0.400 0.439 0.522 rg
+873.00 363.00 m 864.00 367.00 l 864.00 359.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+874.80 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 891.54 405.60 Tm
+(Choose model) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 900.34 384.00 Tm
+(168h weekly;) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 906.08 372.60 Tm
+(else 24h /) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 915.45 361.20 Tm
+(median) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+986.40 363.00 m
+992.40 363.00 l
+S
+0.400 0.439 0.522 rg
+992.40 363.00 m 983.40 367.00 l 983.40 359.00 l h f
+Q
+q
+1.000 0.969 0.906 rg
+0.784 0.612 0.220 RG
+1.20 w
+994.20 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.506 0.376 0.051 rg
+1 0 0 1 1026.65 405.60 Tm
+(Predict) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1019.74 384.00 Tm
+(Generate 24) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1018.50 372.60 Tm
+(hourly values) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1105.80 363.00 m
+1111.80 363.00 l
+S
+0.400 0.439 0.522 rg
+1111.80 363.00 m 1102.80 367.00 l 1102.80 359.00 l h f
+Q
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+1.20 w
+1113.60 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1151.23 405.60 Tm
+(Guard) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1140.11 384.00 Tm
+(Freshness +) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1152.90 372.60 Tm
+(caveat) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1225.20 363.00 m
+1231.20 363.00 l
+S
+0.400 0.439 0.522 rg
+1231.20 363.00 m 1222.20 367.00 l 1222.20 359.00 l h f
+Q
+q
+0.929 0.969 0.980 rg
+0.365 0.620 0.671 RG
+1.20 w
+1233.00 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.137 0.376 0.420 rg
+1 0 0 1 1267.18 405.60 Tm
+(Return) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1261.01 384.00 Tm
+(Structured) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1275.76 372.60 Tm
+(JSON) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1344.60 363.00 m
+1350.60 363.00 l
+S
+0.400 0.439 0.522 rg
+1350.60 363.00 m 1341.60 367.00 l 1341.60 359.00 l h f
+Q
+q
+0.957 0.941 1.000 rg
+0.553 0.471 0.776 RG
+1.20 w
+1352.40 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.357 0.263 0.561 rg
+1 0 0 1 1386.58 405.60 Tm
+(Explain) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1385.81 384.00 Tm
+(Grounded) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1391.70 372.60 Tm
+(answer) Tj
+ET
+q
+0.400 0.439 0.522 RG
+1.80 w
+1464.00 363.00 m
+1470.00 363.00 l
+S
+0.400 0.439 0.522 rg
+1470.00 363.00 m 1461.00 367.00 l 1461.00 359.00 l h f
+Q
+q
+0.933 0.969 0.949 rg
+0.408 0.639 0.533 RG
+1.20 w
+1471.80 300.00 111.00 126.00 re
+B
+Q
+BT
+/F2 13.80 Tf
+0.161 0.420 0.310 rg
+1 0 0 1 1505.98 405.60 Tm
+(Display) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1509.11 384.00 Tm
+(Chart +) Tj
+ET
+BT
+/F1 10.80 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 1500.30 372.60 Tm
+(explanation) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.843 0.863 0.894 RG
+1.20 w
+22.80 63.00 1574.40 165.00 re
+B
+Q
+q
+1.000 0.945 0.933 rg
+1.000 0.945 0.933 RG
+0.00 w
+22.80 196.80 1574.40 31.20 re
+B
+Q
+q
+1.000 0.945 0.933 rg
+1.000 0.945 0.933 RG
+0.00 w
+22.80 196.80 1574.40 7.20 re
+B
+Q
+q
+0.545 0.271 0.216 rg
+0.545 0.271 0.216 RG
+0.00 w
+22.80 63.00 4.80 165.00 re
+B
+Q
+BT
+/F2 10.80 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 39.60 207.00 Tm
+(GUARDRAILS AND RELIABILITY) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+42.00 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 113.16 166.80 Tm
+(Schema / missing values) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+295.20 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 351.20 166.80 Tm
+(Invalid timestamps / duplicates) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+548.40 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 614.76 166.80 Tm
+(Date coverage + timezone) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+801.60 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 874.83 166.80 Tm
+(Min 3 forecast points) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1054.80 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1127.84 166.80 Tm
+(168h / 24h continuity) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1308.00 157.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1384.00 166.80 Tm
+(Horizon <=168 hours) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+42.00 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 122.33 127.80 Tm
+(Stale data >7 days) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+295.20 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 374.80 127.80 Tm
+(Anomaly limit <=200) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+548.40 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 623.43 127.80 Tm
+(Chronological holdout) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+801.60 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 881.16 127.80 Tm
+(MAPE floor 0.1 kW) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1054.80 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1117.70 127.80 Tm
+(Grounded numeric response) Tj
+ET
+q
+1.000 0.945 0.933 rg
+0.812 0.502 0.431 RG
+0.90 w
+1308.00 118.80 240.00 25.20 re
+B
+Q
+BT
+/F1 9.60 Tf
+0.545 0.271 0.216 rg
+1 0 0 1 1385.20 127.80 Tm
+(HTTP error handling) Tj
+ET
+BT
+/F1 9.60 Tf
+0.322 0.376 0.443 rg
+1 0 0 1 42.00 81.00 Tm
+(The source is one household of historical data. No live grid, weather, occupancy, appliance events or verified fault labels are present.) Tj
+ET
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000469 00000 n 
+0000021604 00000 n 
+0000021747 00000 n 
+0000034814 00000 n 
+0000034958 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+52925
+%%EOF

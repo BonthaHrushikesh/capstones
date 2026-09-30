@@ -1,0 +1,50 @@
+{
+  "rows_loaded": 2075259,
+  "columns": [
+    "timestamp",
+    "Global_active_power",
+    "Global_reactive_power",
+    "Voltage",
+    "Global_intensity",
+    "Sub_metering_1",
+    "Sub_metering_2",
+    "Sub_metering_3",
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_month",
+    "is_weekend"
+  ],
+  "timestamp_start": "2006-12-16T17:24:00",
+  "timestamp_end": "2010-11-26T21:02:00",
+  "duplicate_timestamps": 0,
+  "missing_by_column": {
+    "timestamp": 0,
+    "Global_active_power": 0,
+    "Global_reactive_power": 0,
+    "Voltage": 0,
+    "Global_intensity": 0,
+    "Sub_metering_1": 0,
+    "Sub_metering_2": 0,
+    "Sub_metering_3": 0,
+    "hour": 0,
+    "day_of_week": 0,
+    "month": 0,
+    "day_of_month": 0,
+    "is_weekend": 0
+  },
+  "time_features_added": [
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_month",
+    "is_weekend"
+  ],
+  "preprocessing_rules": [
+    "Load the existing project dataset without modifying the source file.",
+    "Convert timestamp strings to pandas datetime values and remove invalid entries.",
+    "Sort the dataset chronologically for reliable time-series analysis.",
+    "Validate required energy-measurement columns and force numeric conversion.",
+    "Create time-of-day and calendar features for analytics, anomaly detection, and forecasting."
+  ]
+}

@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2700" height="1600" viewBox="0 0 2700 1600" role="img" aria-label="Analytics and AI Engine - Technical Detail">
+<title>Analytics and AI Engine - Technical Detail</title>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#667085"/></marker>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.canvas{fill:#f5f6f8}.ink{fill:#172033}.muted{fill:#526071}.label{font-size:18px;font-weight:700;letter-spacing:1.3px}.title{font-size:42px;font-weight:750}.subtitle{font-size:21px}.card-title{font-size:23px;font-weight:700}.body{font-size:18px}.small{font-size:16px}.tiny{font-size:14px}.center{text-anchor:middle}.panel{fill:#fff;stroke:#d8dde5;stroke-width:2}.arrow{fill:none;stroke:#667085;stroke-width:3;marker-end:url(#arrow)}.flowline{fill:none;stroke:#8791a0;stroke-width:2.5}</style></defs>
+<rect class="canvas" width="2700" height="1600"/>
+<text x="55" y="58" class="label" fill="#765a12">AI-POWERED SMART GRID ENERGY INTELLIGENCE ASSISTANT</text>
+<text x="55" y="112" class="title ink">Analytics and AI Engine - Technical Detail</text>
+<text x="55" y="151" class="subtitle muted">The four modules share date-scoped hourly data. Branch steps and limits below follow the Python implementation.</text>
+<text x="2645" y="58" text-anchor="end" class="small muted">2 / 3  ANALYTICS ENGINE</text>
+<rect x="38" y="200" width="1280" height="600" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="38" y="200" width="1280" height="52" rx="16" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="240" width="1280" height="12" rx="0" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="200" width="8" height="600" rx="4" fill="#81600d" stroke="#81600d" stroke-width="0"/>
+<text x="66" y="235" class="label" text-anchor="start" fill="#81600d">A. ENERGY ANALYTICS</text>
+<rect x="68" y="275" width="390" height="155" rx="13" fill="#edf8f3" stroke="#66a68b" stroke-width="2"/>
+<text x="89" y="309" class="card-title" text-anchor="start" fill="#276a4e">Input</text>
+<text x="89" y="345" class="body muted" text-anchor="start">Selected hourly data</text>
+<text x="89" y="371" class="body muted" text-anchor="start">Global_active_power</text>
+<text x="89" y="397" class="body muted" text-anchor="start">Sub-meter energy fields</text>
+<path d="M470 350 L520 350" class="arrow"/>
+<rect x="535" y="250" width="750" height="260" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="556" y="284" class="card-title" text-anchor="start" fill="#81600d">Demand statistics</text>
+<text x="556" y="320" class="body muted" text-anchor="start">Mean active power; maximum hourly mean and timestamp</text>
+<text x="556" y="346" class="body muted" text-anchor="start">P95 demand; minimum; top three clock-hour averages</text>
+<text x="556" y="372" class="body muted" text-anchor="start">Weekday profile; daily and monthly trends; daily change</text>
+<text x="556" y="398" class="body muted" text-anchor="start">Total estimated kWh; sub-meter 1/2/3 + Other residual</text>
+<text x="556" y="424" class="body muted" text-anchor="start">Voltage, current (Global Intensity), reactive-power means</text>
+<path d="M910 520 L910 565" class="arrow"/>
+<rect x="225" y="585" width="900" height="160" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="246" y="619" class="card-title" text-anchor="start" fill="#81600d">Energy insights</text>
+<text x="246" y="655" class="body muted" text-anchor="start">Structured summary, hourly profiles, daily/monthly series, evidence strings</text>
+<text x="246" y="681" class="body muted" text-anchor="start">Used by dashboard pages, Copilot, composed insight and decision routes</text>
+<rect x="1160" y="585" width="130" height="160" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="1225.0" y="619" class="card-title" text-anchor="middle" fill="#23606b">API</text>
+<text x="1225.0" y="655" class="body muted" text-anchor="middle">JSON</text>
+<text x="1225.0" y="681" class="body muted" text-anchor="middle">metrics</text>
+<rect x="1360" y="200" width="1302" height="600" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="1360" y="200" width="1302" height="52" rx="16" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="1360" y="240" width="1302" height="12" rx="0" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="1360" y="200" width="8" height="600" rx="4" fill="#81600d" stroke="#81600d" stroke-width="0"/>
+<text x="1388" y="235" class="label" text-anchor="start" fill="#81600d">B. ANOMALY DETECTION</text>
+<rect x="1390" y="275" width="260" height="135" rx="13" fill="#edf8f3" stroke="#66a68b" stroke-width="2"/>
+<text x="1411" y="309" class="card-title" text-anchor="start" fill="#276a4e">Hourly demand</text>
+<text x="1411" y="345" class="body muted" text-anchor="start">Apply selected dates</text>
+<text x="1411" y="371" class="body muted" text-anchor="start">Drop missing power</text>
+<path d="M1660 343 L1690 343" class="arrow"/>
+<rect x="1700" y="275" width="285" height="135" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1721" y="309" class="card-title" text-anchor="start" fill="#81600d">Weekday + hour</text>
+<text x="1721" y="345" class="body muted" text-anchor="start">Group matching slots</text>
+<text x="1721" y="371" class="body muted" text-anchor="start">Calculate slot median</text>
+<path d="M1995 343 L2025 343" class="arrow"/>
+<rect x="2035" y="275" width="260" height="135" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="2056" y="309" class="card-title" text-anchor="start" fill="#81600d">Robust deviation</text>
+<text x="2056" y="345" class="body muted" text-anchor="start">MAD x 1.4826</text>
+<text x="2056" y="371" class="body muted" text-anchor="start">Flag |score| &gt;= 4.5</text>
+<path d="M2305 343 L2335 343" class="arrow"/>
+<rect x="2345" y="275" width="285" height="135" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="2366" y="309" class="card-title" text-anchor="start" fill="#81600d">Isolation Forest</text>
+<text x="2366" y="345" class="body muted" text-anchor="start">Cached hourly model</text>
+<text x="2366" y="371" class="body muted" text-anchor="start">Separate candidate flag</text>
+<rect x="1410" y="465" width="540" height="220" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1431" y="499" class="card-title" text-anchor="start" fill="#81600d">Combine and rank</text>
+<text x="1431" y="535" class="body muted" text-anchor="start">Candidate = MAD threshold OR Isolation Forest flag</text>
+<text x="1431" y="561" class="body muted" text-anchor="start">Sort candidates by absolute MAD score</text>
+<text x="1431" y="587" class="body muted" text-anchor="start">Return observed, baseline, score, and prior-</text>
+<text x="1431" y="613" class="body muted" text-anchor="start">hour/day/week values</text>
+<path d="M1980 575 L2025 575" class="arrow"/>
+<rect x="2040" y="465" width="570" height="220" rx="13" fill="#fff1ee" stroke="#cf806e" stroke-width="2"/>
+<text x="2061" y="499" class="card-title" text-anchor="start" fill="#8b4537">Result limit and meaning</text>
+<text x="2061" y="535" class="body muted" text-anchor="start">API accepts limit 1-200; direct function caps at 200</text>
+<text x="2061" y="561" class="body muted" text-anchor="start">Dashboard currently requests up to 100 results</text>
+<text x="2061" y="587" class="body muted" text-anchor="start">Anomaly result is a statistical review candidate, not a</text>
+<text x="2061" y="613" class="body muted" text-anchor="start">fault</text>
+<text x="1410" y="735" class="small muted" text-anchor="start">Fallback: if Isolation Forest cannot run, use weekday-hour MAD alone.</text>
+<rect x="38" y="835" width="1280" height="600" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="38" y="835" width="1280" height="52" rx="16" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="875" width="1280" height="12" rx="0" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="38" y="835" width="8" height="600" rx="4" fill="#81600d" stroke="#81600d" stroke-width="0"/>
+<text x="66" y="870" class="label" text-anchor="start" fill="#81600d">C. FORECASTING</text>
+<rect x="68" y="915" width="315" height="145" rx="13" fill="#edf8f3" stroke="#66a68b" stroke-width="2"/>
+<text x="89" y="949" class="card-title" text-anchor="start" fill="#276a4e">Select history</text>
+<text x="89" y="985" class="body muted" text-anchor="start">Filter date range</text>
+<text x="89" y="1011" class="body muted" text-anchor="start">Exclude hours &lt;45 minutes</text>
+<text x="89" y="1037" class="body muted" text-anchor="start">Require at least 3 points</text>
+<path d="M390 988 L425 988" class="arrow"/>
+<rect x="435" y="915" width="340" height="145" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="456" y="949" class="card-title" text-anchor="start" fill="#81600d">History continuity</text>
+<text x="456" y="985" class="body muted" text-anchor="start">168 continuous hours?</text>
+<text x="456" y="1011" class="body muted" text-anchor="start">Else 24 continuous hours?</text>
+<text x="456" y="1037" class="body muted" text-anchor="start">Else use median fallback</text>
+<path d="M785 988 L820 988" class="arrow"/>
+<rect x="830" y="890" width="455" height="205" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="851" y="924" class="card-title" text-anchor="start" fill="#81600d">Fallback hierarchy</text>
+<text x="851" y="960" class="body muted" text-anchor="start">1. Weekly seasonal-naive: repeat prior</text>
+<text x="851" y="986" class="body muted" text-anchor="start">168-hour pattern</text>
+<text x="851" y="1012" class="body muted" text-anchor="start">2. Daily seasonal: repeat prior 24-hour</text>
+<text x="851" y="1038" class="body muted" text-anchor="start">pattern</text>
+<text x="851" y="1064" class="body muted" text-anchor="start">3. Recent median when &gt;=24 hourly points</text>
+<text x="851" y="1090" class="body muted" text-anchor="start">4. Insufficient-history placeholder below</text>
+<text x="851" y="1116" class="body muted" text-anchor="start">that</text>
+<rect x="68" y="1120" width="1217" height="225" rx="13" fill="#edf7fa" stroke="#5d9eab" stroke-width="2"/>
+<text x="89" y="1154" class="card-title" text-anchor="start" fill="#23606b">Forecast output and safeguards</text>
+<text x="89" y="1190" class="body muted" text-anchor="start">Generate next N hours; horizon is bounded to 1-168 hours</text>
+<text x="89" y="1216" class="body muted" text-anchor="start">Return model, fallback_used, history_end, mean and hourly values</text>
+<text x="89" y="1242" class="body muted" text-anchor="start">Warn if latest selected reading is older than 7 days</text>
+<text x="89" y="1268" class="body muted" text-anchor="start">Caveat: historical baseline only; no weather or occupancy inputs</text>
+<rect x="1360" y="835" width="1302" height="600" rx="18" fill="#ffffff" stroke="#d7dce4" stroke-width="2"/>
+<rect x="1360" y="835" width="1302" height="52" rx="16" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="1360" y="875" width="1302" height="12" rx="0" fill="#fff7e7" stroke="#fff7e7" stroke-width="0"/>
+<rect x="1360" y="835" width="8" height="600" rx="4" fill="#81600d" stroke="#81600d" stroke-width="0"/>
+<text x="1388" y="870" class="label" text-anchor="start" fill="#81600d">D. FORECAST EVALUATION</text>
+<rect x="1390" y="915" width="315" height="160" rx="13" fill="#edf8f3" stroke="#66a68b" stroke-width="2"/>
+<text x="1411" y="949" class="card-title" text-anchor="start" fill="#276a4e">Historical series</text>
+<text x="1411" y="985" class="body muted" text-anchor="start">Selected hourly power</text>
+<text x="1411" y="1011" class="body muted" text-anchor="start">At least 48 hours required</text>
+<path d="M1710 995 L1745 995" class="arrow"/>
+<rect x="1755" y="915" width="365" height="160" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1776" y="949" class="card-title" text-anchor="start" fill="#81600d">Chronological split</text>
+<text x="1776" y="985" class="body muted" text-anchor="start">Final 24 to 672 hours held out</text>
+<text x="1776" y="1011" class="body muted" text-anchor="start">Train only on earlier values</text>
+<text x="1776" y="1037" class="body muted" text-anchor="start">No future-data leakage</text>
+<path d="M2125 995 L2160 995" class="arrow"/>
+<rect x="2170" y="915" width="445" height="160" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="2191" y="949" class="card-title" text-anchor="start" fill="#81600d">Seasonal-naive predictions</text>
+<text x="2191" y="985" class="body muted" text-anchor="start">168-hour lag if training &gt;=168 hours</text>
+<text x="2191" y="1011" class="body muted" text-anchor="start">Otherwise 24-hour lag</text>
+<path d="M2390 1085 L2390 1120" class="arrow"/>
+<rect x="1485" y="1140" width="1030" height="185" rx="13" fill="#fff7e7" stroke="#c89c38" stroke-width="2"/>
+<text x="1506" y="1174" class="card-title" text-anchor="start" fill="#81600d">Evaluation metrics</text>
+<text x="1506" y="1210" class="body muted" text-anchor="start">MAE: average absolute error | RMSE: error with larger misses weighted more</text>
+<text x="1506" y="1236" class="body muted" text-anchor="start">MAPE: percentage error; denominator is floored at 0.1 kW near zero</text>
+<text x="1506" y="1262" class="body muted" text-anchor="start">Forecast evaluation is a separate holdout calculation, not the live forecast output</text>
+</svg>

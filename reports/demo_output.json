@@ -1,0 +1,287 @@
+{
+  "summary": {
+    "start": "2006-12-16T17:00:00",
+    "end": "2010-11-26T21:00:00",
+    "hours": 34589,
+    "mean_kw": 1.086,
+    "max_kw": 6.561,
+    "max_at": "2008-11-23T18:00:00",
+    "p95_kw": 2.857,
+    "top_weekday": "Saturday",
+    "total_energy_kwh": 37546.6,
+    "energy_mix_kwh": {
+      "submeter_1": 2299.3,
+      "submeter_2": 2661.3,
+      "submeter_3": 13262.0,
+      "other": 19323.9
+    },
+    "largest_daily_rise": {
+      "date": "2006-12-23",
+      "previous_date": "2006-12-22",
+      "mean_kw_change": 1.689,
+      "submeter_kwh_change": {
+        "submeter_1": -0.48,
+        "submeter_2": 0.08,
+        "submeter_3": 3.59
+      }
+    }
+  },
+  "anomaly_screen": {
+    "method": "weekday-hour robust MAD",
+    "threshold": 4.5,
+    "candidate_hours": 1543,
+    "top_evidence": [
+      {
+        "timestamp": "2007-02-03T02:00:00",
+        "observed_kw": 3.498,
+        "baseline_kw": 0.323,
+        "score": 39.61,
+        "deviation_kw": 3.175
+      },
+      {
+        "timestamp": "2007-02-20T03:00:00",
+        "observed_kw": 2.847,
+        "baseline_kw": 0.322,
+        "score": 37.97,
+        "deviation_kw": 2.526
+      },
+      {
+        "timestamp": "2008-01-01T03:00:00",
+        "observed_kw": 2.731,
+        "baseline_kw": 0.322,
+        "score": 36.22,
+        "deviation_kw": 2.409
+      },
+      {
+        "timestamp": "2006-12-26T04:00:00",
+        "observed_kw": 2.993,
+        "baseline_kw": 0.327,
+        "score": 33.2,
+        "deviation_kw": 2.666
+      },
+      {
+        "timestamp": "2008-01-01T05:00:00",
+        "observed_kw": 2.48,
+        "baseline_kw": 0.313,
+        "score": 32.46,
+        "deviation_kw": 2.167
+      }
+    ]
+  },
+  "forecast": {
+    "model": "Weekly seasonal-naive",
+    "history_end": "2010-11-26T21:00:00",
+    "horizon_hours": 24,
+    "mean_kw": 1.479,
+    "forecast": [
+      {
+        "timestamp": "2010-11-26T22:00:00",
+        "kw": 0.602
+      },
+      {
+        "timestamp": "2010-11-26T23:00:00",
+        "kw": 0.334
+      },
+      {
+        "timestamp": "2010-11-27T00:00:00",
+        "kw": 0.317
+      },
+      {
+        "timestamp": "2010-11-27T01:00:00",
+        "kw": 0.285
+      },
+      {
+        "timestamp": "2010-11-27T02:00:00",
+        "kw": 0.357
+      },
+      {
+        "timestamp": "2010-11-27T03:00:00",
+        "kw": 0.31
+      },
+      {
+        "timestamp": "2010-11-27T04:00:00",
+        "kw": 0.327
+      },
+      {
+        "timestamp": "2010-11-27T05:00:00",
+        "kw": 0.885
+      },
+      {
+        "timestamp": "2010-11-27T06:00:00",
+        "kw": 0.787
+      },
+      {
+        "timestamp": "2010-11-27T07:00:00",
+        "kw": 2.634
+      },
+      {
+        "timestamp": "2010-11-27T08:00:00",
+        "kw": 1.973
+      },
+      {
+        "timestamp": "2010-11-27T09:00:00",
+        "kw": 1.875
+      },
+      {
+        "timestamp": "2010-11-27T10:00:00",
+        "kw": 1.292
+      },
+      {
+        "timestamp": "2010-11-27T11:00:00",
+        "kw": 2.691
+      },
+      {
+        "timestamp": "2010-11-27T12:00:00",
+        "kw": 1.131
+      },
+      {
+        "timestamp": "2010-11-27T13:00:00",
+        "kw": 1.298
+      },
+      {
+        "timestamp": "2010-11-27T14:00:00",
+        "kw": 1.051
+      },
+      {
+        "timestamp": "2010-11-27T15:00:00",
+        "kw": 1.258
+      },
+      {
+        "timestamp": "2010-11-27T16:00:00",
+        "kw": 1.517
+      },
+      {
+        "timestamp": "2010-11-27T17:00:00",
+        "kw": 1.795
+      },
+      {
+        "timestamp": "2010-11-27T18:00:00",
+        "kw": 5.627
+      },
+      {
+        "timestamp": "2010-11-27T19:00:00",
+        "kw": 3.26
+      },
+      {
+        "timestamp": "2010-11-27T20:00:00",
+        "kw": 2.117
+      },
+      {
+        "timestamp": "2010-11-27T21:00:00",
+        "kw": 1.774
+      }
+    ],
+    "caveat": "Repeats the matching hour from the prior week; weather and occupancy are unavailable."
+  },
+  "forecast_evaluation": {
+    "model": "Weekly seasonal-naive",
+    "train_hours": 33917,
+    "test_hours": 672,
+    "mae_kw": 0.7076,
+    "rmse_kw": 0.9976,
+    "mape_percent": 82.8,
+    "note": "Final chronological holdout; MAPE denominator is floored at 0.1 kW."
+  },
+  "sample_assistant_response": {
+    "trace_id": "a193e459-b142-4501-9d51-628cf8427fd8",
+    "question": "Why did energy consumption increase and were there unusual patterns?",
+    "answer": "For 2006-12-16 to 2010-11-26, average hourly active power was 1.086 kW. The highest hourly mean was 6.561 kW at 2008-11-23T18:00:00; Saturday had the strongest average weekday demand. The screen identified 1,543 candidate hours. Strongest shown: 2007-02-03T02:00:00, 3.498 kW versus a 0.323 kW weekday/hour baseline (robust score 39.61). Review candidates against site records; these are not confirmed faults. The largest day-to-day rise in this date range was +1.689 kW in daily mean on 2006-12-23 versus 2006-12-22. submeter 3 had the largest positive sub-meter change (+3.59 kWh). This is an associated change, not proof of cause; the dataset has no occupancy, weather, or appliance event data.",
+    "trace": [
+      {
+        "agent": "Energy Data Analyst",
+        "finding": "34,589 hourly readings; mean active power 1.086 kW; Peak hourly mean 6.561 kW at 2008-11-23 18:00:00; Estimated active energy in this range: 37,546.6 kWh"
+      },
+      {
+        "agent": "Anomaly Investigator",
+        "finding": "1,543 candidate hours at robust score \u2265 4.5",
+        "method": "weekday-hour robust MAD"
+      },
+      {
+        "agent": "Energy Insight Synthesizer",
+        "finding": "Combined requested analyses; response facts are linked to the included evidence payload."
+      },
+      {
+        "agent": "Decision Guide",
+        "finding": "Use unusual-hour flags to prioritize review and validate against meter or equipment records before action."
+      }
+    ],
+    "evidence": {
+      "summary": {
+        "start": "2006-12-16T17:00:00",
+        "end": "2010-11-26T21:00:00",
+        "hours": 34589,
+        "mean_kw": 1.086,
+        "max_kw": 6.561,
+        "max_at": "2008-11-23T18:00:00",
+        "top_weekday": "Saturday",
+        "energy_mix_kwh": {
+          "submeter_1": 2299.3,
+          "submeter_2": 2661.3,
+          "submeter_3": 13262.0,
+          "other": 19323.9
+        },
+        "largest_daily_rise": {
+          "date": "2006-12-23",
+          "previous_date": "2006-12-22",
+          "mean_kw_change": 1.689,
+          "submeter_kwh_change": {
+            "submeter_1": -0.48,
+            "submeter_2": 0.08,
+            "submeter_3": 3.59
+          }
+        },
+        "evidence": [
+          "34,589 hourly readings; mean active power 1.086 kW",
+          "Peak hourly mean 6.561 kW at 2008-11-23 18:00:00",
+          "Estimated active energy in this range: 37,546.6 kWh"
+        ]
+      },
+      "anomalies": {
+        "count": 1543,
+        "flags": [
+          {
+            "timestamp": "2007-02-03T02:00:00",
+            "observed_kw": 3.498,
+            "baseline_kw": 0.323,
+            "score": 39.61,
+            "deviation_kw": 3.175
+          },
+          {
+            "timestamp": "2007-02-20T03:00:00",
+            "observed_kw": 2.847,
+            "baseline_kw": 0.322,
+            "score": 37.97,
+            "deviation_kw": 2.526
+          },
+          {
+            "timestamp": "2008-01-01T03:00:00",
+            "observed_kw": 2.731,
+            "baseline_kw": 0.322,
+            "score": 36.22,
+            "deviation_kw": 2.409
+          },
+          {
+            "timestamp": "2006-12-26T04:00:00",
+            "observed_kw": 2.993,
+            "baseline_kw": 0.327,
+            "score": 33.2,
+            "deviation_kw": 2.666
+          },
+          {
+            "timestamp": "2008-01-01T05:00:00",
+            "observed_kw": 2.48,
+            "baseline_kw": 0.313,
+            "score": 32.46,
+            "deviation_kw": 2.167
+          }
+        ],
+        "method": "weekday-hour robust MAD",
+        "threshold": 4.5,
+        "scope_hours": 34589,
+        "caveat": "Statistical screening candidates; not verified equipment faults."
+      },
+      "forecast": null
+    },
+    "workflow": "Structured local agent handoff: data analyst \u2192 requested specialist(s) \u2192 insight synthesizer \u2192 decision guide."
+  }
+}
